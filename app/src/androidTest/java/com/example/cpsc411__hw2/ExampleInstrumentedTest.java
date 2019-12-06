@@ -1,4 +1,4 @@
-package com.example.cpsc411hw2;
+package com.example.cpsc411__hw2;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.cpsc411hw2", appContext.getPackageName());
+        assertEquals("com.example.cpsc411__hw2", appContext.getPackageName());
     }
 }

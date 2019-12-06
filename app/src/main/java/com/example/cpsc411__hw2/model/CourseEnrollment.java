@@ -1,4 +1,4 @@
-package com.example.cpsc411hw2;
+package com.example.cpsc411__hw2.model;
 
 public class CourseEnrollment {
     protected String mCourseID;
